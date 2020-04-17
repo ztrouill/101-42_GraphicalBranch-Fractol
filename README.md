@@ -3,7 +3,7 @@
 
 2nd Project of Graphical Branch consisting in creating a fractal generator software with different sets as Mandelbrot, Julia, Burning Ship...
 
-Watch here : https://vimeo.com/408844297
+Watch here : https://vimeo.com/408868391
 
 ![illu00](/img/4.png)
 ![illu01](/img/2.png)
