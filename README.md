@@ -6,7 +6,7 @@
 Watch here : https://vimeo.com/408844297
 
 ![illu00](/img/4.png)
-![illu01](/img/1.png)
+![illu01](/img/2.png)
 
 # HowTo
 
@@ -29,5 +29,5 @@ You will need :
  * Joulala (computation error in Julia Set)
  * Alien (Julia with absolutes values) 
 
-![illu02](/img/2.png)
+![illu02](/img/1.png)
 ![illu03](/img/3.png)
